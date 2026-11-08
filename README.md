@@ -1,94 +1,93 @@
-# Hi, I'm Esmaeel Kakavand
+# Hi, I'm Esmaeel Kakavand 👋
 
-### Control Systems Engineer | Robotics & Autonomous Systems | Industrial Automation
+### Control Systems Engineer | Robotics & Autonomous Systems | Modeling & Simulation
 
-I am a Control Systems Engineer focused on turning **control theory into practical engineering systems** through modeling, simulation, software, and hardware implementation.
+I am a **Control Systems Engineer and PhD Candidate in Control Engineering**, with a focus on dynamic system modeling, simulation, advanced control, and engineering algorithm development.
 
-My work spans **advanced control, robotics, autonomous systems, and industrial automation**, with a strong background in MATLAB/Simulink-based engineering and dynamic system modeling.
+I am passionate about transforming mathematical models and control algorithms into practical engineering solutions, combining **MATLAB/Simulink, robotics, embedded systems, and hardware prototyping**.
 
----
-
-## Engineering Focus
-
-### Control Systems & Simulation
-
-* Dynamic System Modeling & Simulation
-* Classical, Modern & Nonlinear Control
-* MATLAB / Simulink / Simscape
-* System Identification
-* State Estimation
-* Optimization
-
-### Robotics & Autonomous Systems
-
-* Robot Modeling & Control
-* UAV Modeling & Control
-* Autonomous Systems
-* Sensor Integration & State Estimation
-* ROS 2 *(currently developing practical projects)*
-* Python / C++ *(expanding for robotics applications)*
-
-### Industrial Automation
-
-* PLC-Based Control Systems
-* Siemens TIA Portal *(currently developing practical projects)*
-* HMI / SCADA
-* Process Control
-* Industrial Communication
-* Instrumentation & Automation
+My primary interests are **control system design, autonomous robotics, and embedded control implementation using Arduino and STM32**.
 
 ---
 
-## Featured Engineering Projects
+## 🔧 Technical Expertise
+
+### 🎯 Control Systems & Modeling
+- Dynamic System Modeling & Simulation
+- Classical, Modern, Nonlinear & Robust Control
+- Adaptive and Intelligent Control
+- Control Algorithm Design & Implementation
+- State Estimation & System Identification
+- MATLAB, Simulink, Simscape & Numerical Optimization
+
+### 🤖 Robotics & Autonomous Systems
+- UAV and Mobile Robot Modeling & Control
+- Autonomous Control Algorithms
+- Guidance, Navigation & State Estimation
+- Sensor Integration
+- Robotics Simulation
+- Python and C++ for Engineering Applications
+
+### 🔌 Embedded Systems & Hardware Prototyping
+- Arduino & STM32 Microcontrollers
+- Sensor and Actuator Interfacing
+- Embedded Control Development
+- Microcontroller-Based Prototyping
+- Hardware–Software Integration
+
+---
+
+## 🚀 Engineering Projects
 
 ### 🚁 Quadcopter Modeling & Control
+Development of a physics-based quadcopter simulation using **MATLAB, Simulink, Simscape, and Simscape Multibody**, focusing on dynamic modeling, propulsion systems, sensor simulation, and control algorithm development.
 
-Physics-based modeling of a quadcopter and its propulsion system using **MATLAB, Simulink, Simscape, and Simscape Multibody**, with controller development and simulation.
-
-`MATLAB` `Simulink` `Simscape` `Control Systems`
+**Technologies:** MATLAB · Simulink · Simscape · Control Systems
 
 **Status:** In Development
 
-### 🤖 Autonomous Mobile Robot
+### 🤖 Sepehr Open Robotics
+An open-source robotics initiative focused on developing robotic platforms, control algorithms, simulation tools, and embedded hardware integration.
 
-A real-hardware autonomous mobile robot project integrating sensing, localization, navigation, and control using ROS 2.
+The project aims to connect **robotics software, simulation, and STM32-based embedded control** through an extensible development environment.
 
-`ROS 2` `C++` `Python` `Control` `Sensors`
+**Technologies:** Python · STM32 · Robotics · Embedded Systems
 
-**Status:** Planned
+**Status:** In Development
 
-### ⚙️ Industrial Process Automation
+### ⚡ Advanced Control & Engineering Simulation
+Modeling, implementation, and performance evaluation of control algorithms for nonlinear dynamic systems, robotics, and power-electronic applications.
 
-A practical industrial automation system integrating Siemens PLC control, HMI/SCADA, instrumentation, process control, alarms, interlocks, and industrial communication.
+**Technologies:** MATLAB · Simulink · Nonlinear Control · Robust Control
 
-`Siemens PLC` `TIA Portal` `HMI/SCADA` `Process Control`
-
-**Status:** Planned
-
----
-
-## Engineering Philosophy
-
-> **Control Theory → Simulation → Software → Hardware → Real Systems**
-
-I am particularly interested in engineering problems where advanced modeling and control methods can be transformed into reliable robotic, autonomous, and industrial systems.
+**Status:** Ongoing Engineering Work
 
 ---
 
-## Open to Opportunities
+## 💡 Engineering Philosophy
 
-I am open to **engineering projects, R&D collaborations, consulting opportunities, and professional roles** related to:
+**Control Theory → Modeling & Simulation → Algorithm Development → Embedded Implementation → Real-World Systems**
 
-* Control Systems
-* Modeling & Simulation
-* Robotics & Autonomous Systems
-* MATLAB / Simulink Development
-* Industrial Automation
+I am especially interested in engineering projects that combine theoretical control methods with simulation, software development, and real hardware.
 
 ---
 
-## Connect
+## 🌍 Open to Opportunities
 
-💼 [LinkedIn](https://www.linkedin.com/in/esmaeel-kakavand/)
+I am actively seeking **engineering opportunities in Oman**, particularly in:
 
-🌐 **Engineering Portfolio:** Coming Soon
+- Control Systems Engineering
+- Modeling & Simulation
+- Robotics & Autonomous Systems
+- Control Algorithm Development
+- Embedded Control & R&D
+
+I am also open to technical collaborations and engineering consulting.
+
+---
+
+## 📫 Connect
+
+💼 **LinkedIn:** https://www.linkedin.com/in/esmaeel-kakavand/
+
+🌐 **Engineering Portfolio:** https://sites.google.com/view/esmaeelkakavand/home
